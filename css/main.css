@@ -1,0 +1,19 @@
+ img {
+	border: 3px solid #000000;
+}
+body {
+background:#0F9EA0;
+}
+h1 {
+background:green;
+}
+.field {
+clear:both; 
+text-align:right;
+}
+label {
+float:left;
+}
+.main {
+float:left;
+}
